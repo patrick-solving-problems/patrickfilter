@@ -695,7 +695,17 @@ return {
     {   
         codes = "allitems",
         location = {"onplayer", "atvendor", "equipped", "onground"},
-        suffix_desc = "{yellow}Max Sockets: {maxsock}\n{blue}"
+        suffix_desc = "{green}Sockets: {maxsock}\n{blue}",
+        sockets = "1+",
+        maxsock = true
+    },
+
+    {   
+        codes = "allitems",
+        location = {"onplayer", "atvendor", "equipped", "onground"},
+        suffix_desc = "{red}Sockets: {maxsock}\n{blue}",
+        sockets = "0+",
+        maxsock = false
     },
 
     -- Socket info for ground items
@@ -718,4 +728,3 @@ return {
     
     }
 }
-
