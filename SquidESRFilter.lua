@@ -1,9 +1,9 @@
---- Filter Title: SquidFilter Beta v02
+--- Filter Title: SquidFilter Beta v03
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
 --- Filter Link: https://github.com/kraimoor/squidfilter/blob/main/SquidESRFilter.lua
 return {
-    reload = "{red}SquidFilter Beta v02 [{yellow}Reloaded{red}]",
+    reload = "{red}SquidFilter Beta v03 [{yellow}Reloaded{red}]",
     debug = false,
     allowOverrides = false,
     filter_titles = {"Leveling","Strict","Very-Strict"},
@@ -728,3 +728,4 @@ return {
     
     }
 }
+
