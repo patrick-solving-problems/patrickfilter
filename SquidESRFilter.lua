@@ -503,6 +503,7 @@ return {
     -- hightlight mythical items
     {
         codes = {"7wd","m01","m02","m03","m04","m05","m07","m08","m09","m11","m12","m13","m14","m16","m17","m18","dd1","m21","m22","m23","m24","m25","m26","m27","m28","m29","m30","m31","m32","m33","m34","m35","m36","m37","m38","mam","mrn","m10","m06","m20","m15",},
+        quality = "7",
         notify = "Mythical drop!!",
         audio = "Mythic Item",
         name_style = "Rainbow",
