@@ -1,7 +1,7 @@
 --- Filter Title: SquidFilter Beta v03
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
---- Filter Link: https://github.com/kraimoor/squidfilter/blob/main/SquidESRFilter.lua
+--- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/SquidESRFilter.lua
 return {
     reload = "{red}SquidFilter Beta v03 [{yellow}Reloaded{red}]",
     debug = false,
@@ -728,4 +728,5 @@ return {
     
     }
 }
+
 
