@@ -877,19 +877,21 @@ return {
         filter_levels = 4
     },
 
+
     -- hide magic arrow/bolts on very and uber
     {
-        codes = {"cqv","cqv2","cq0"},
-        quality = 4,
+        codes = {"cqv","cqv2","cq0","aq0","aq2","aqv"},
+        quality = "4-",
         hide = true,
         filter_levels = 3
     },
     {
-        codes = {"cqv","cqv2","cq0"},
-        quality = 4,
+        codes = {"cqv","cqv2","cq0","aq0","aq2","aqv"},
+        quality = "4-",
         hide = true,
         filter_levels = 4
     },
+
 
 
     -- Hide jewels and charms based on strictness
