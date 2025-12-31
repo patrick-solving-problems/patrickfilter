@@ -13,11 +13,11 @@ return {
     {
 
     -- Debugging codes
-    {   
-      codes = "allitems",
-       location = {"onplayer", "atvendor"},
-       suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
-    },
+    --{   
+    --  codes = "allitems",
+    --   location = {"onplayer", "atvendor"},
+    --   suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
+    --},
 
     -- Consumables
     -- Hide utility potions
@@ -949,7 +949,7 @@ return {
         filter_levels = 4
     },
 
-    -- Uber-strict rules, hide sets, hide all non-mythical bases
+    -- Uber-strict rules, hide sets, hide all non-mythical bases, small rejuvs
 
     {
         codes = "allitems",
@@ -969,6 +969,12 @@ return {
         sockets = "0",
         hide = true,
         filter_levels = 4
+    },
+    {   
+        code = "rvs",
+        hide = true,
+        filter_levels = 4,
+        border = {255, 0, 255, 255, 1},	
     },
 
 
