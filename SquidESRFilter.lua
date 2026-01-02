@@ -8,7 +8,7 @@ return {
     audioPlayback = true,
     allowOverrides = true,
     filter_titles = {"Leveling","Strict","Very-Strict","Uber-Strict"},
-    filter_level = 4,
+    filter_level = 1,
     rules = 
     {
 
@@ -1127,3 +1127,4 @@ return {
 
     }
 }
+
