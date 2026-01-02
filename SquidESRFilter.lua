@@ -524,7 +524,7 @@ return {
         notify = "Map Dropped",
         audio = "Map",
         prefix = "{white}> ",
-        name_override = "Ancient Tome T2",
+        name_override = "Ancient Tomb T2",
         suffix = " <",
         --name_style = "Rainbow",
         background = {0, 0, 0, 255},
@@ -1127,4 +1127,5 @@ return {
 
     }
 }
+
 
