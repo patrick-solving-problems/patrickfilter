@@ -1,14 +1,14 @@
---- Filter Title: SquidFilter Beta-Audio v07d
+--- Filter Title: SquidFilter Beta-Audio v07e
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
 --- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/SquidESRFilter.lua
 return {
-    reload = "{red}SquidFilter Beta-Audio v07d [{yellow}Reloaded{red}]",
+    reload = "{red}SquidFilter Beta-Audio v07e [{yellow}Reloaded{red}]",
     debug = false,
     audioPlayback = true,
     allowOverrides = false,
     filter_titles = {"Leveling","Strict","Very-Strict","Uber-Strict"},
-    filter_level = 1,
+    filter_level = 3,
     rules = 
     {
 
@@ -761,6 +761,7 @@ return {
         background = {0, 0, 0, 255},
         --background_style = "Rainbow",
         border = {255, 0, 0, 255, 8},
+        suffix = " {lilac}[{sockets}]"
     },
 
     -- hightlight mythical items
@@ -768,10 +769,11 @@ return {
         codes = {"7wd","m01","m02","m03","m04","m05","m07","m08","m09","m11","m12","m13","m14","m16","m17","m18","dd1","m21","m22","m23","m24","m25","m26","m27","m28","m29","m30","m31","m32","m33","m34","m35","m36","m37","m38","mam","mrn","m10","m06","m20","m15",},
         quality = "4-",
         --notify = "Mythical Base!!",
-        name_style = "Rainbow",
+        --name_style = "Rainbow",
         background = {0, 0, 0, 255},
         --background_style = "Rainbow",
         border = {255, 0, 0, 255, 8},
+        suffix = " {lilac}[{sockets}]"
     },
 
 
