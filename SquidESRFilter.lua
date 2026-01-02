@@ -1,9 +1,9 @@
---- Filter Title: SquidFilter Beta-Audio v08
+--- Filter Title: SquidFilter Beta-Audio v08a
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
 --- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/SquidESRFilter.lua
 return {
-    reload = "{red}SquidFilter Beta-Audio v08 [{yellow}Reloaded{red}]",
+    reload = "{red}SquidFilter Beta-Audio v08a [{yellow}Reloaded{red}]",
     debug = false,
     audioPlayback = true,
     allowOverrides = true,
@@ -1127,5 +1127,6 @@ return {
 
     }
 }
+
 
 
