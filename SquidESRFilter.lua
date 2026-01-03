@@ -1,9 +1,9 @@
---- Filter Title: SquidFilter Beta-Audio v08b
+--- Filter Title: SquidFilter Beta-Audio v08c
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
 --- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/SquidESRFilter.lua
 return {
-    reload = "{red}SquidFilter Beta-Audio v08b [{yellow}Reloaded{red}]",
+    reload = "{red}SquidFilter Beta-Audio v08c [{yellow}Reloaded{red}]",
     debug = false,
     audioPlayback = true,
     allowOverrides = true,
@@ -29,13 +29,6 @@ return {
         suffix = " !!!",
         background = {255, 50, 50, 255},
         border = {0, 0, 0, 255, 10},
-    },
-
-	-- unsocket info for key
-    {   
-        code = "key",
-        location = {"onplayer", "atvendor","equipped"},
-        suffix_desc = "{yellow}it and get the socketables back\nCube key with any socketed item to unsocket\n ",
     },
 
     -- Consumables
@@ -260,7 +253,7 @@ return {
         border = {255, 255, 255, 255, 2},
     },
     {   
-        code = "p04",
+        code = "po4",
         --notify = "",
         prefix = "{black}[XP] ",
         name_override = "Nervana Grass",
@@ -1132,6 +1125,7 @@ return {
 
     }
 }
+
 
 
 
