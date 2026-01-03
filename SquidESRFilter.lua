@@ -1,14 +1,14 @@
---- Filter Title: SquidFilter Beta-Audio v08c
+--- Filter Title: SquidFilter Beta-Audio v08d
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
 --- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/SquidESRFilter.lua
 return {
-    reload = "{red}SquidFilter Beta-Audio v08c [{yellow}Reloaded{red}]",
+    reload = "{red}SquidFilter Beta-Audio v08d [{yellow}Reloaded{red}]",
     debug = false,
     audioPlayback = true,
-    allowOverrides = true,
+    allowOverrides = false,
     filter_titles = {"Leveling","Strict","Very-Strict","Uber-Strict"},
-    filter_level = 1,
+    filter_level = 4,
     rules = 
     {
 
@@ -16,7 +16,7 @@ return {
     --{   
     --  codes = "allitems",
     --   location = {"onplayer", "atvendor","equipped"},
-    --   suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
+     --  suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
     --},
 
 
@@ -747,7 +747,10 @@ return {
         notify = "Bling!",
         audio = "Bling",
         quality = 7,
-        codes = {"amu","rin","zrn","srn","nrn","prn","brg","drn","arn"},
+        codes = {"amu","rin","zrn","srn","nrn","prn","brg","drn","arn","jew"},
+        background = {0, 0, 0, 255},
+        --background_style = "Rainbow",
+        border = {255, 0, 0, 255, 8},
     },
     {
         notify = "Charming!",
