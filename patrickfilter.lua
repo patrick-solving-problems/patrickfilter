@@ -1,7 +1,7 @@
 --- Filter Title: patrickfilter
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
---- Filter Link: https://github.com/patrick-solving-problems/patrickfilter/blob/main/xxx patrickfilter.lua
+--- Filter Link: https://github.com/patrick-solving-problems/patrickfilter/blob/main/patrickfilter.lua
 return {
     reload = "{red}big juicy patrickfilter xdd",
     debug = false,
