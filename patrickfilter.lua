@@ -114,22 +114,11 @@ return {
         suffix = " *"
     }, 
 
-    -- Deciphers
-    {   
-        code = "ddd",
-        prefix = "{gold}> ",
-        name_override = "Ancient Decipher",
-        suffix = " <",
-        background = {0, 0, 0, 255},
-        border = {200, 200, 100, 255, 1},
-    },
-
     -- Hide Decpihers for uber-strict
 
     {   
         code = "ddd",
         hide = true,
-        filter_levels = 4
     },
 
     -- D-Stones
