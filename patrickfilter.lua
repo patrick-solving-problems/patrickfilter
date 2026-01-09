@@ -115,7 +115,6 @@ return {
     }, 
 
     -- Hide Decpihers
-
     {   
         code = "ddd",
         hide = true,
@@ -1083,6 +1082,13 @@ return {
         hide = true,
         filter_levels = "3+",
     },
+
+    -- merc weapon
+    {
+        rarity = 2,
+        quality = 3,
+        hide = false,
+    }
 
     -- Dont put anything else below this --
 
