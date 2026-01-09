@@ -1024,6 +1024,13 @@ return {
         hide = true,
         filter_levels = 3
     },
+    
+    -- hide low gems
+    {
+        codes = {"gcv","gfv","gsv","gzv","gpv","gcb","gfb","gsb","glb","gpb","gcg","gfg","gsg","glg","gpg","gcr","gfr","gsr","glr","gpr","gcw","gfw","gsw","glw","gpw","gcy","gfy","gsy","gly","gpy","skc","skf","sku","skl","skz","gck","gfk","gsk","gzk","gpk"},
+        hide = true,
+        filter_levels = 3,
+    },
 
 
 
