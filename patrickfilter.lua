@@ -1,7 +1,7 @@
 --- Filter Title: patrickfilter
 --- Filter Type: MultiStrict
 --- Filter Description: Multi-level filter
---- Filter Link: https://raw.githubusercontent.com/kraimoor/squidfilter/refs/heads/main/patrickfilter.lua
+--- Filter Link: https://github.com/patrick-solving-problems/patrickfilter/blob/main/patrickfilter.lua
 return {
     reload = "{red}patrickfilter",
     debug = false,
