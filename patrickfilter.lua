@@ -1077,32 +1077,6 @@ return {
         filter_levels = "3+",
     },
 
-    -- merc weapon
-    {
-        rarity = 2,
-        quality = 2,
-        ethereal = true,
-        hide = false,
-    },
-    {
-        rarity = 2,
-        quality = 3,
-        ethereal = true,
-        hide = false,
-    },
-    -- hide non eth
-    {
-        rarity = 2,
-        quality = 2,
-        ethereal = false,
-        hide = true,
-    },
-    {
-        rarity = 2,
-        quality = 3,
-        ethereal = false,
-        hide = true,
-    },
 
     -- Dont put anything else below this --
 
