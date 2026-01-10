@@ -1081,8 +1081,8 @@ return {
     {
         rarity = 2,
         quality = 2,
-        hide = false,
         ethereal = true,
+        hide = false,
     },
     {
         rarity = 2,
@@ -1090,13 +1090,12 @@ return {
         ethereal = true,
         hide = false,
     },
-
-        -- merc weapon
+    -- hide non eth
     {
         rarity = 2,
         quality = 2,
-        hide = true,
         ethereal = false,
+        hide = true,
     },
     {
         rarity = 2,
