@@ -1087,8 +1087,8 @@ return {
     {
         rarity = 2,
         quality = 3,
-        hide = false,
         ethereal = true,
+        hide = false,
     },
 
         -- merc weapon
@@ -1101,8 +1101,8 @@ return {
     {
         rarity = 2,
         quality = 3,
-        hide = true,
         ethereal = false,
+        hide = true,
     },
 
     -- Dont put anything else below this --
