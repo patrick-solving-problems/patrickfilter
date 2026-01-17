@@ -1093,6 +1093,21 @@ return {
     },
 
 
+
+    {  -- MERC any eth elite SWORD
+        codes = {"0cm","0gs","0b0","0fb","0gd","7cm","7gs","7b7","7fb","7gd","q3b","q3c","q3d","q3e","q3f","q4b","q4c","q4d","q4e","q4f","m22","m18","dd1"},
+        quality = "3-",
+        ethereal = true,
+        notify = "eth merc waffe",
+        prefix = "{white}>>> ",
+        suffix = " <<<",
+        --name_style = "Rainbow",
+        background = {0, 0, 0, 255},
+        --background_style = "Rainbow",
+        border = {255, 127, 0, 255, 8},
+    },
+
+
     -- Dont put anything else below this --
 
 
