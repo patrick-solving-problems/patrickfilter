@@ -13,11 +13,11 @@ return {
     {
 
     -- Debugging codes
-    --{   
-    --  codes = "allitems",
-    --   location = {"onplayer", "atvendor","equipped"},
-     --  suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
-    --},
+    {
+      codes = "allitems",
+       location = {"onplayer", "atvendor","equipped"},
+       suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
+    },
 
 
     -- Highlight and notifications for accidentally dropping things out of your inventory
