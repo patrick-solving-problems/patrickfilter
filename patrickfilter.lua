@@ -3,7 +3,7 @@
 --- Filter Description: Multi-level filter
 --- Filter Link: https://raw.githubusercontent.com/patrick-solving-problems/patrickfilter/refs/heads/main/patrickfilter.lua
 return {
-    reload = "{red}big juicy patrickfilter xdd",
+    reload = "{red}big juicy patrickfilter {blue}xdd",
     debug = false,
     audioPlayback = true,
     allowOverrides = false,
