@@ -43,7 +43,7 @@ return {
         hide = false,
     },
     {
-        codes = { "mp0", "mp1", "mp2", "mp3", "mp4", "mp5", "hp0", "hp1", "hp2", "hp3", "hp4", "isc", "tsc"},
+        codes = { "mp0", "mp1", "mp2", "mp3", "mp4", "mp5", "hp0", "hp1", "hp2", "hp3", "hp4", "isc", "tsc", "rvs"},
         hide = true,
     },
 
@@ -944,7 +944,7 @@ return {
     {   
         code = "rvs",
         hide = true,
-        filter_levels = 4,
+        filter_levels = 1,
         border = {255, 0, 255, 255, 1},	
     },
 
