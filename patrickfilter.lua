@@ -1079,7 +1079,7 @@ return {
 
 
 
-    {  -- MERC any eth elite weap
+    {  -- MERC any eth elite POLEARM
         codes = {"0b7","0vo","0s8","0pa","0h0","0wc","7o7","7vo","7s8","7pa","7h7","7wc"},
         quality = "3-",
         ethereal = true,
