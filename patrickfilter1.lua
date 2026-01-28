@@ -1,9 +1,9 @@
 --- Filter Title: patrickfilter1
 --- Filter Type: MultiStrict
---- Filter Description: Version 1
+--- Filter Description: Version 2
 --- Filter Link: https://raw.githubusercontent.com/patrick-solving-problems/patrickfilter/refs/heads/main/patrickfilter1.lua
 return {
-    reload = "{red}big juicy patrickfilter 1 {blue}xdd",
+    reload = "{red}big juicy patrickfilter 2 {blue}xdd",
     debug = false,
     audioPlayback = true,
     allowOverrides = false,
