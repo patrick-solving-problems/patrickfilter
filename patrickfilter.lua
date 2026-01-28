@@ -1,4 +1,4 @@
---- Filter Title: patrickfilter
+--- Filter Title: patrickfilter1
 --- Filter Type: MultiStrict
 --- Filter Description: Version 1
 --- Filter Link: https://raw.githubusercontent.com/patrick-solving-problems/patrickfilter/refs/heads/main/patrickfilter.lua
