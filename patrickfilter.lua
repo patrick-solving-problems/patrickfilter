@@ -16,7 +16,7 @@ return {
     {
       codes = "allitems",
        location = {"onplayer", "atvendor","equipped"},
-       suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
+       prefix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
     },
 
 
