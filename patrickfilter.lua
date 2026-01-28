@@ -1,6 +1,6 @@
 --- Filter Title: patrickfilter
 --- Filter Type: MultiStrict
---- Filter Description: Multi-level filter
+--- Filter Description: Version 1
 --- Filter Link: https://raw.githubusercontent.com/patrick-solving-problems/patrickfilter/refs/heads/main/patrickfilter.lua
 return {
     reload = "{red}big juicy patrickfilter 1 {blue}xdd",
