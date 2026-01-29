@@ -105,12 +105,6 @@ return {
         quality = "6",
         border = {200, 200, 100, 255, 1},
     },
-    {
-        codes = {"cm1","cm2","cm3"},
-        quality = "6",
-        hide = true,
-        filter_levels = "3+",
-    },
 
     -- Star better bases
     {
@@ -1083,6 +1077,12 @@ return {
         filter_levels = "3+",
     },
 
+    {
+        codes = {"cm1","cm2","cm3"},
+        quality = "6",
+        hide = true,
+        filter_levels = "3+",
+    },
 
 
     {  -- MERC any eth elite POLEARM
