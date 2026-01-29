@@ -1119,6 +1119,18 @@ return {
     },
 
 
+    {  -- MERC any 6os armor
+        codes = {"ucl","ult","uul","m06"},
+        quality = "3-",
+        notify = "merc armor",
+        prefix = "{white}>>> ",
+        suffix = " <<<",
+        --name_style = "Rainbow",
+        background = {0, 0, 0, 255},
+        --background_style = "Rainbow",
+        border = {255, 127, 0, 255, 8},
+    },
+
     -- Dont put anything else below this --
 
 
