@@ -1078,7 +1078,7 @@ return {
     },
 
     {
-        codes = {"cm1","cm2","cm3"},
+        codes = {"cx1","cx2","cx3"},
         quality = 6,
         hide = true,
         filter_levels = "3+",
