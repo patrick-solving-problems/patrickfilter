@@ -101,12 +101,12 @@ return {
         border = { 255, 255, 255, 255, 2 }
     },
     {
-        codes = {"jew", "cm1"},
+        codes = {"jew"},
         quality = "6",
         border = {200, 200, 100, 255, 1},
     },
     {
-        codes = {"cm2","cm3"},
+        codes = {"cm1","cm2","cm3"},
         quality = "6",
         hide = true,
         filter_levels = "3+",
