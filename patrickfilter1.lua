@@ -158,6 +158,7 @@ return {
         name_style = "Open Flames",
         background = {0, 0, 0, 255},
         border = {255, 255, 25, 255, 2},
+        filter_levels = "2-",
     },
     {
         code = "sdo",
