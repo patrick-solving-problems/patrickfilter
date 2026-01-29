@@ -159,6 +159,11 @@ return {
         background = {0, 0, 0, 255},
         border = {255, 255, 25, 255, 2},
     },
+    {
+        code = "sdo",
+        hide = true,
+        filter_levels = "3+",
+    },
 
     -- Maple, Anvil, Elixir, Cookbook
     {   
