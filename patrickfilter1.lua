@@ -108,8 +108,8 @@ return {
     {
         codes = {"cm1","cm2","cm3"},
         quality = "6",
-        filter_levels = "4",
         hide = true,
+        filter_levels = "3+",
     },
 
     -- Star better bases
