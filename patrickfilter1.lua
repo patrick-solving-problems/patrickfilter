@@ -1079,7 +1079,7 @@ return {
 
     {
         codes = {"cm1","cm2","cm3"},
-        quality = "6",
+        quality = 6,
         hide = true,
         filter_levels = "3+",
     },
