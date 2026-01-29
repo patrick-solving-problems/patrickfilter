@@ -101,9 +101,15 @@ return {
         border = { 255, 255, 255, 255, 2 }
     },
     {
-        codes = {"jew","cm1","cm2","cm3"},
+        codes = {"jew"},
         quality = "6",
         border = {200, 200, 100, 255, 1},
+    },
+    {
+        codes = {"cm1","cm2","cm3"},
+        quality = "6",
+        filter_levels = "4",
+        hide = true,
     },
 
     -- Star better bases
