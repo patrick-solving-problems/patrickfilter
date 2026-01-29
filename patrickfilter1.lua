@@ -886,13 +886,13 @@ return {
         filter_levels = 2
     },
     {
-        codes = {"jew","cm1","cm2","cm3","cx1","cx2","cx3"},
+        codes = {"cm1","cm2","cm3","cx1","cx2","cx3"},
         quality = 4,
         hide = true,
         filter_levels = 3
     },    
     {
-        codes = {"jew","cm1","cm2","cm3","cx1","cx2","cx3"},
+        codes = {"cm1","cm2","cm3","cx1","cx2","cx3"},
         quality = 4,
         hide = true,
         filter_levels = 4
