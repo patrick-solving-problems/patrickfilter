@@ -1124,6 +1124,7 @@ return {
         notify = "merc armor",
         audio = "Six socket armor",
         quality = "3-",
+        ethereal = true,
         prefix = "{white}>>> ",
         suffix = " <<<",
         --name_style = "Rainbow",
@@ -1137,6 +1138,23 @@ return {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
