@@ -1121,8 +1121,9 @@ return {
 
     {  -- MERC any 6os armor
         codes = {"ycl","ylt","yul","ucl","ult","uul","m06"},
-        quality = "3-",
         notify = "merc armor",
+        audio = "Six socket armor",
+        quality = "3-",
         prefix = "{white}>>> ",
         suffix = " <<<",
         --name_style = "Rainbow",
