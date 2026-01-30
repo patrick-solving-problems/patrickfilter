@@ -1120,7 +1120,7 @@ return {
 
 
     {  -- MERC any 6os armor
-        codes = {"ucl","ult","uul","m06"},
+        codes = {"ycl","ylt","yul","ucl","ult","uul","m06"},
         quality = "3-",
         notify = "merc armor",
         prefix = "{white}>>> ",
