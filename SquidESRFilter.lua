@@ -1,9 +1,9 @@
---- Filter Title: patrickfilter1
+--- Filter Title: SquidESRFilter
 --- Filter Type: MultiStrict
---- Filter Description: Version 2
+--- Filter Description: Version 3
 --- Filter Link: https://raw.githubusercontent.com/patrick-solving-problems/patrickfilter/refs/heads/main/SquidESRFilter.lua
 return {
-    reload = "{red}big juicy patrickfilter 2 {blue}xdd",
+    reload = "{red}big juicy patrickfilter 3 {blue}xdd",
     debug = false,
     audioPlayback = true,
     allowOverrides = false,
