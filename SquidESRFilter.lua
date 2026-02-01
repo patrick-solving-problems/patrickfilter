@@ -13,11 +13,11 @@ return {
     {
 
     -- Debugging codes
-    {
-      codes = "allitems",
-       location = {"onplayer", "atvendor","equipped"},
-       suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
-    },
+    --{   
+    --  codes = "allitems",
+    --  location = {"onplayer", "atvendor","equipped"},
+    --  suffix = "\n{red}Quality: {quality}\nRarity: {rarity}\nCode: {code}",
+    --},
 
 
     -- Highlight and notifications for accidentally dropping things out of your inventory
@@ -101,7 +101,7 @@ return {
         border = { 255, 255, 255, 255, 2 }
     },
     {
-        codes = {"jew"},
+        codes = {"jew","cm1","cm2","cm3","cm4"},
         quality = "6",
         border = {200, 200, 100, 255, 1},
     },
@@ -742,7 +742,7 @@ return {
         notify = "Charming!",
         audio = "Charm",
         quality = 7,
-        codes = {"cm1","cm2","cm3"}
+        codes = {"cm1","cm2","cm3","cm4"}
     },
 
     -- Socket info for ground items
