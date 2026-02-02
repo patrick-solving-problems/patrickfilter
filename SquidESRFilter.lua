@@ -1120,9 +1120,10 @@ return {
 
     {  -- 6 OS ELITE SWORD
         codes = {"0cr"},
-        notify = "six socket sword",
-        audio = "Six socket sword",
+        notify = "six socket eth sword",
+        audio = "Six socket eth sword",
         quality = "3-",
+        ethereal = true,
         prefix = "{white}>>> ",
         suffix = " <<<",
         --name_style = "Rainbow",
